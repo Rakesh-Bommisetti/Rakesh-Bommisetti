@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rakesh-Bommisetti
+- 👋 Hi, I’m Rakesh
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any Java Project
