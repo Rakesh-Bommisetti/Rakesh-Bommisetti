@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakesh
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java SpringBoot
 - 💞️ I’m looking to collaborate on any Java Project
 - 📫 How to reach me ...
 
