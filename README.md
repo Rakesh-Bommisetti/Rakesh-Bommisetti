@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakesh
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Java SpringBoot.
+- 🌱 I’m currently learning Java SpringBoot, Microservices.
 - 💞️ I’m looking to collaborate on any Java Project, Selenium, or Data Analytics.
 - 📫 How to reach me linkedin.com/in/rakesh-bommisetti-2735a0211
 <!---
