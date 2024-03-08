@@ -8,5 +8,5 @@ Rakesh-Bommisetti/Rakesh-Bommisetti is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-![](https://leetcard.jacoblin.cool/Rakesh_Bommisetti?animation=true)
+<p>![](https://leetcard.jacoblin.cool/Rakesh_Bommisetti?animation=true)</p>
 </div>
