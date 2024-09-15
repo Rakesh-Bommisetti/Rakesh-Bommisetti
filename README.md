@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rakesh<br>👀 I’m interested in Software Development.<br>🌱 I’m currently learning Java SpringBoot, and Microservices.<br>💞️ I want to collaborate on any Java Project, Spring Boot, Selenium, or Data Analytics.<br> 📫 How to reach me [LinkedIn](https://linkedin.com/in/rakesh-bommisetti-2735a0211)<br>
+👋 Hi, I’m Rakesh<br>👀 I’m interested in Software Development.<br>🌱 I’m currently learning Java SpringBoot, and Microservices.<br>💞️ I want to collaborate on any Java Project, Spring Boot, Selenium, ReactJS, or Data Analytics.<br> 📫 How to reach me [LinkedIn](https://linkedin.com/in/rakesh-bommisetti-2735a0211)<br>
 
 
 # 💻 Tech Stack:
